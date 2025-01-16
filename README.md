@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
+<br clear="both"><br clear="both">
 <div align="left">
   <a href="https://youtube.com"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
@@ -31,7 +31,7 @@
 <br clear="both">
 
 <div align="right"><h4>Our founder Mike with two new hires.</h4>
-<img align="right" height="400" src="https://github.com/user-attachments/assets/a16c6d3d-8543-4d28-a734-73ddea286583" />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/a16c6d3d-8543-4d28-a734-73ddea286583" />
 </div>
 
 
