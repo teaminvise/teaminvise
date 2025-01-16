@@ -25,6 +25,7 @@
 </div>
 
 <br clear="both">
+<br clear="both">
 
 <div align="right"><h4>Our founder Mike with two new hires.</h4>
 <img align="right" height="400" src="https://github.com/user-attachments/assets/a16c6d3d-8543-4d28-a734-73ddea286583" />
